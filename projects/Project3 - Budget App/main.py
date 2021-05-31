@@ -1,4 +1,4 @@
-# This entrypoint file to be used in development. Start by reading README.md
+#Start by reading README.md
 import budget
 from budget import create_spend_chart
 
